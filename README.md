@@ -1,3 +1,2 @@
 # AndroidPhotoApp
-Application which allows the user to take photos, which furthermore can be seen as markers on a map. The user can
-click on these markers to expand the image.
+AndroidPhotoApplication is an Android application for taking photos and associate them to the position they were taken. The pictures are shown as markers on a map, but the pictures are full screen expandable by clicking on the markers
